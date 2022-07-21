@@ -1,0 +1,100 @@
+.firstDiv{
+  font-size:16px;
+  position:fixed;
+  z-index:10000;
+  width:100vw;
+  margin:auto;
+  background-color:white;
+}
+.redstrip{
+    height:1.2rem;
+    position:fixed;
+    display:flex;
+    float:left;
+    margin:0rem 8.6rem;
+    top:0;
+    z-index:100001;
+    visibility:visible;
+}
+.mainLogo{
+  height:1.5rem;
+}
+.leftPartTopNav{
+  display:flex;
+  float:left;
+  padding-right: 4vw;
+  padding-left:0px;
+  margin-left:0px;
+}
+Link{
+  text-decoration:none;
+  cursor:pointer;
+}
+Link:hover{
+text-decoration: underline;
+}
+.rightPartTopNav{
+  display:flex;
+  float:right;
+  padding-right: 1vw;
+}
+.leftPartTopNav{
+  display:flex;
+  float:left;
+  padding-right: 4vw;
+  padding-left:0px;
+  margin-left:0px;
+}
+.rightPartTopNav .leftPartTopNav{
+  font-size:14px;
+}
+ul {
+    margin: 2rem 5rem 1.3rem 5rem;
+    list-style: none;
+    display: flex;
+    color:"black";
+    justify-Content:space-between;
+    gap:5rem;
+}
+li > *{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    padding: 0rem 1.12rem;
+    cursor:pointer;
+}
+li > *:hover{
+text-decoration: underline;
+}
+p {
+    margin: 0;
+    font-size: 0.89rem;
+    font-weight:700;
+}
+.StartButton{
+  margin-right:1.9vw;
+  text-align:center;
+  padding:0px 43px;
+  font-weight:700;
+  font-size:0.95rem;
+  background:#e4002b;
+  color:white;
+  border:none;
+  border-radius:30px;
+  opacity:1;
+  cursor:pointer;
+}
+.StartButton:hover{
+  background:#c12c48;
+}
+.secondFindNav{
+  background:rgb(32,33,36);
+  padding:2px;
+}
+.secondFindNav1{
+  color:white;
+  font-size:0.95rem;
+  text-decoration:none;
+}
+
