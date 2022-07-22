@@ -1,0 +1,28 @@
+{
+    "featured":[
+        {
+            "image":"https://digitaleat.kfc.com/menus/image/bare/kfc-MacCheeseBowlSideDrink?q=75",
+            "title":"Mac & Cheese Bowl Combo",
+            "calories":"calories: 980-1400",
+            "pricinginfo":"Set location for pricing."
+        },
+        {
+            "image":"https://digitaleat.kfc.com/menus/image/bare/kfc-MacCheeseBowl?q=75",
+            "title":"Mac & Cheese Bowl",
+            "calories":"calories: 660-790",
+            "pricinginfo":"Set location for pricing."
+        },
+        {
+            "image":"https://digitaleat.kfc.com/menus/image/bare/kfc-12pcBucketMealBevBucket?q=75",
+            "title":"12pc Meal (Variety) with FREE Beverage Bucket",
+            "calories":"calories: 3450-7470",
+            "pricinginfo":"Set location for pricing."
+        },
+        {
+            "image":"https://digitaleat.kfc.com/menus/image/bare/kfc-16pcTendersMealBevBucket?q=75",
+            "title":"16pc Tenders Meal with FREE Beverage Bucket",
+            "calories":"calories: 2910-4930",
+            "pricinginfo":"Set location for pricing."
+        }
+    ]
+}
