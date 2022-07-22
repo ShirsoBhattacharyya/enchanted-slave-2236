@@ -15,6 +15,7 @@
     top:0;
     z-index:100001;
     visibility:visible;
+    background-color: #ffffff;
 }
 .mainLogo{
   height:1.5rem;
